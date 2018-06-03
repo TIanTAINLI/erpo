@@ -3,6 +3,7 @@ public class Hello{
 		System.out.println("Hello java");
 		System.out.println("Yoooooo");
 		System.out.println("Hahahahaha");
-		System.out.println("How are you");
+		// System.out.println("How are you");
+		System.out.println("就是这样吧");	
 	}
 }
